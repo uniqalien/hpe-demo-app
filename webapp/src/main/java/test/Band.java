@@ -5,12 +5,12 @@ import org.json.JSONObject;
 import java.security.InvalidParameterException;
 
 /**vvvv
- * Created with             IntelliJ IDEA..........
+ * Created with             ..IntelliJ IDEA..........
  * User: gullery  testubf   testing localization
  * Date: 24/11/14
  * Time: 10:03
  * To change this                      template use File |   Settings | File Templates. | Test Data
- * Raluca test test test test123
+ * Raluca test test test test123 vladTest
  */
 public class Band {
 	public int id;
@@ -18,7 +18,7 @@ public class Band {
 	public String logo = "";
 	public String song = "";
 	public int votes = 0;
-	public int count = 1;
+	public int count = 2;
 
 	 Band(JSONObject json) {
 		System.out.println(" b          a                        n         d ");
