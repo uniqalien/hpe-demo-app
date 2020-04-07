@@ -5,7 +5,7 @@ import org.json.JSONObject;
 import java.security.InvalidParameterException;
 
 /**vvvv
- * Created with             ..IntelliJ IDEA..........
+ * Created with IntelliJ IDEA..........
  * User: gullery  testubf   testing localization
  * Date: 24/11/14
  * Time: 10:03
@@ -38,6 +38,8 @@ public class Band {
 	 * for testing blame  committer feature
 	 */
 	public void methodThatThrowsNullPointerException() {
+		System.out.print("going to throw  null pointer exception..");
+		System.out.print("going to throw  null pointer exception..");
 		System.out.print("going to throw  null pointer exception..");
 		throw new NullPointerException();
 	}
