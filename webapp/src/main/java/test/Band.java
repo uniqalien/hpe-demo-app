@@ -5,11 +5,11 @@ import org.json.JSONObject;
 import java.security.InvalidParameterException;
 
 /**vvvv
- * Created with             IntelliJ IDEA....
+ * Created with             IntelliJ IDEA..........
  * User: gullery  testubf   testing localization
  * Date: 24/11/14
  * Time: 10:03
- * To change this                      template use File |   Settings | File Templates. | Test
+ * To change this                      template use File |   Settings | File Templates. | Test Data
  * Raluca test test test test123
  */
 public class Band {
@@ -49,7 +49,6 @@ public class Band {
 		r.put("logo", logo);
 		r.put("song", song);
 		r.put("votes", votes);
-		r.put("count", count);		
 		return r;
 	}
 
