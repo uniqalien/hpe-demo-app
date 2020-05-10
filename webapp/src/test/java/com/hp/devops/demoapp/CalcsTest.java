@@ -5,10 +5,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Created by  gullery                  on 17/02/2016. testtted in pipeline 111
-<<<<<<< HEAD
- */
 public class CalcsTest {
 	@Test
 	public void sum_test_A() {
