@@ -10,7 +10,6 @@ import static org.junit.Assert.assertTrue;
  * Created by gullery on 17/02/2016.
  */
 public class CalcsTest {
-//yet another comment...
 	@Test
 	public void sum_test_A() {
 		assertEquals(3, Calcs.sum(1,5));
