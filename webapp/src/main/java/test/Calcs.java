@@ -5,6 +5,9 @@ import java.util.Random;
 /**nfdfdfgfgf
  * Created by      2/2016
  * Testing hotspots widget by Raluca
+ * Testing hotspots widget by Raluca
+ * Testing hotspots widget by Raluca
+ * Testing hotspots widget by Raluca
  */
 
 public class Calcs {
