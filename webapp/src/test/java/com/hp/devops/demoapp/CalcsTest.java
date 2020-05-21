@@ -58,9 +58,4 @@ public class CalcsTest {
 	public void always_true_A() {
 		assertTrue(Calcs.alwaysTrue());
 	}
-	//nissim added comment for regrassion day 14/02/2017 
-	//eli too 5
-	
-	
-	
 }
