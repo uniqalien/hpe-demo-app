@@ -17,7 +17,6 @@ import java.security.InvalidParameterException;
  * test raluca test
  */
 public class BandTest {
-	//private String NON_RELATED;
 	private JSONObject test;
 
 	@Before
