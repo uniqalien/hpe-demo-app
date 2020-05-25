@@ -9,8 +9,6 @@ import org.junit.Test;
 import java.security.InvalidParameterException;
 
 /**
- * Created           with IntelliJ IDEA.
- * User: gullery
  * Date: 25/11/14
  * Time: 14:21
  * To change this template use File | Settings | File Templates.
