@@ -14,10 +14,7 @@ import java.security.InvalidParameterException;
  * To change this template use File | Settings | File Templates.
  */
 public class BandTest {
-	//private String NON_RELATED;
-	//private String NON_RELATED;
-	//private String NON_RELATED;
-	//private String NON_RELATED;
+	private String NON_RELATED;
 	private JSONObject test;
 
 	@Before
@@ -28,6 +25,7 @@ public class BandTest {
 		test.put("logo", "Logo");
 		test.put("song", "Song");
 		test.put("votes", 10);
+		test.put("anything", "isTest");
 	}
 
 	@Test
