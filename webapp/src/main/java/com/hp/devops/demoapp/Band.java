@@ -33,7 +33,9 @@ public class Band {
 	public JSONObject toJSON() {
 		JSONObject r = new JSONObject();
 		r.put("id1", id);/// second try
-		r.put("id1", id); /// second try
+		r.put("id2", id); /// third try
+		r.put("id3", id); /// third try
+		r.put("id4", id); /// third try
 		r.put("name1", name);/// second try
 		r.put("logo1", logo);/// second try
 		r.put("song1", song);/// second try
