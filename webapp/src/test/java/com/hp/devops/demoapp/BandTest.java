@@ -5,12 +5,12 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
-
+// // test test test
 import java.security.InvalidParameterException;
 
-/**
- * Date: 25/11/14
- * Time: 14:21
+/**// // test test test
+ * Date: 25/11/14// // test test test 
+ * Time: 14:21 // // test test test
  * To change this template use File | Settings | File Templates.
  */
 public class BandTest {
